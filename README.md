@@ -3,6 +3,8 @@
 A lightweight utility designed specifically for **Castlevania: Symphony of the Night (Saturn, Japanese version)** to visualize in‑game text, decode PTN script data, preview tile‑based layouts, and manage text‑to‑font address mappings.  
 This tool is intended for ROM hackers, fan translators, and developers working with Saturn‑era CHR font graphics and PTN text encoding.
 
+**Project started in December 2021.**
+
 ---
 
 ## Features
